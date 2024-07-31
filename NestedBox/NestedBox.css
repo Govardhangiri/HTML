@@ -1,0 +1,28 @@
+.content{
+    height: 100px;
+    box-sizing: border-box;
+    background-color: #87CEEB;
+}
+
+.padding{
+    padding: 20px;
+    box-sizing: border-box;
+    background-color:#98FB98;
+}
+
+.border{
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #AFEEEE;
+}
+
+.margin{
+    padding: 20px;
+    background-color: #F08080;
+    box-sizing: border-box;
+    max-width: 300px;
+    margin: 100px auto;
+}
+
+
+

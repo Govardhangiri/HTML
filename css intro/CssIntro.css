@@ -1,0 +1,67 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+
+.Learn { 
+    width: 152px;
+    height: 43px;
+    background-color: forestgreen;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 12px;
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 20px 20px;
+    
+   
+    
+}
+
+.Video { 
+    width: 152px;
+    height: 43px;
+    background-color: yellow;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px;
+   
+    
+}
+
+.Reference { 
+    width: 152px;
+    height: 43px;
+    background-color: cadetblue;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 12px;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 20px 20px;
+    
+   
+    
+}
+
+.Certified{ 
+    width: 152px;
+    height: 43px;
+    background-color: crimson;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 12px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px 20px;
+    
+   
+    
+}
+
+
